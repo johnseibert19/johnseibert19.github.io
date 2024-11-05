@@ -9,7 +9,7 @@ categories: media
 
 [Mahler-Popken complexity](https://en.wikipedia.org/wiki/Integer_complexity) maps the smallest number of ones that can be used to represent it using ones and any number of additions, multiplications, and parentheses. It is defined by the following recursive function:
 
-$$ ||n||=\cos(\theta)+i\sin(\theta) $$
+$$ \lVert n\rVert=\cos(\theta)+i\sin(\theta) $$
 
 ## Code
 
