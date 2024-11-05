@@ -1,6 +1,6 @@
-title: "Landing Page"
+title: "Home"
 author: "John Seibert"
-description: ""My heart is in the work. -Andrew Carnegie""
+description: "\"My heart is in the work.  -Andrew Carnegie\""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,10 +17,12 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
+  - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jms81185@commonwealthu.edu"}
   - {title: Github, icon: github, url: "https://github.com/johnseibert19"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
