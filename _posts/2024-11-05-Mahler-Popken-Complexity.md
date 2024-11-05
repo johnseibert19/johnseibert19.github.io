@@ -9,8 +9,7 @@ categories: media
 
 [Mahler-Popken complexity](https://en.wikipedia.org/wiki/Integer_complexity) maps the smallest number of ones that can be used to represent it using ones and any number of additions, multiplications, and parentheses. It is defined by the following recursive function:
 
-$$ y = mx + b $$
-
+$ C(n) = \min \left( \left\{ C(d) + C\left(\frac{n}{d}\right) \mid d \mid n, 1 < d < n \right\} \cup \left\{ C(i) + C(n-i) \mid 1 \leq i < n \right\} \right) $
 ## Code
 
 The naive implementation of the function is simple and uses the following Python code:
