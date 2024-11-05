@@ -38,20 +38,6 @@ def multiply(x):
 
     return min_cost, calculation
 
-# def fibonacci(x):
-#     fib = [1, 1]
-#     for i in range(2, number + 1):
-#         if i == fib[len(fib) - 1] + fib[len(fib) - 2]:
-#             fib.append(i)
-
-#     if x > 1 and x in fib:
-#         return costs[fib.index(x)] + 4, f"F({fib.index(x)})"
-#     else:
-#         return x, x
-
-# def successor(x):
-#     return costs[x - 1] + 1, f"S({x - 1})"
-
 def add(x):
     min_cost = x
     calculation = x
@@ -61,48 +47,6 @@ def add(x):
             calculation = f"{i}+{x - i}"
 
     return min_cost, calculation
-
-# def pred(x):
-#     min_cost = x
-#     calculation = x
-#     for i in range(x, 0, -1):
-#         if costs[i] + 1 < costs[i-1]:
-#             costs[i-1] = costs[i] + 1
-#             calculations[i-1] = f"P({i})"
-#     return min_cost, calculation
-
-# def subtract(x):
-#     min_cost = x
-#     calculation = x
-#     for i in range (x, 0, -1):
-#         for j in range (i, 0, -1):
-#             if costs[i] + costs[j] < costs[i-j]:
-#                 costs[i-j] = costs[i] + costs[j]
-#                 calculations[i-j] = f"{i}-{j}"
-#     return min_cost, calculation
-    
-
-# def exponent(x):
-#     powers = []
-#     for base in range(2, ceil(sqrt(x)) + 1):
-#         for expo in range(2, int(log(x, base)) + 2):
-#             power = base**expo
-#             if power == x:
-#                 powers.append(base)
-#                 powers.append(expo)
-
-#     min_cost = x
-#     calculation = x
-#     for i in range(0, len(powers), 2):
-#         if costs[powers[i]] + costs[powers[i + 1]] + 1 < min_cost:
-#             min_cost = costs[powers[i]] + costs[powers[i + 1]] + 1
-#             calculation = f"{powers[i]}^{powers[i + 1]}"
-
-#     return min_cost, calculation
-
-
-# def binary(x):
-#     return len(bin(x)[2:]) + 7, bin(x)[2:]
 
 
 def main():
