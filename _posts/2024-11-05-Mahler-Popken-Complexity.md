@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Mahler-Popken Complexity"
 mathjax: true
 layout: post
 categories: media
@@ -9,7 +9,7 @@ categories: media
 
 [Mahler-Popken complexity](https://en.wikipedia.org/wiki/Integer_complexity) maps the smallest number of ones that can be used to represent it using ones and any number of additions, multiplications, and parentheses. It is defined by the following recursive function:
 
-$$ C(n) = \min \left( \left\{ C(d) + C\left(\frac{n}{d}\right) \mid d \mid n, 1 < d < n \right\} \cup \left\{ C(i) + C(n-i) \mid 1 \leq i < n \right\} \right) $$
+$$ \mathcal{C}(n) = \min\left(\left\{\mathcal{C}(d)+\mathcal{C}\left(\frac{n}{d}\right) \mid d \mid n, 1 < d < n\right\} \cup \left\{\mathcal{C}(i)+\mathcal{C}(n-i) \mid 1 \leq i < n\right\}\right) $$
 
 ## Code
 
