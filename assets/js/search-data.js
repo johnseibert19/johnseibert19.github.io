@@ -458,7 +458,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/John%20Seibert%20-%20CV%20(Dec.%202025).pdf", "_blank");
         },
       },{
         id: 'social-email',
