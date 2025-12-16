@@ -23,8 +23,10 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior at **Commonwealth University - Bloomsburg** in the Eileen G. Jones Honors College, pursuing a double major in **Mathematics and Computer Science** with a concentration in Data Science. I am expected to graduate in **Fall 2025** and am currently applying to PhD programs for the 2026-2027 academic year.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic interests lie at the intersection of abstract theory and computational application. I am currently working on my honors thesis under the advisement of **Dr. John Polhill**, researching **partial difference sets (PDS)** and their implications in combinatorial design theory.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond pure mathematics, I have extensive experience in applied research and systems engineering. My research journey began at **Geisinger Health System**, where I analyzed genomic data related to sex chromosome aneuploidies, contributing to a co-authored publication in [_Nature Communications_](https://www.nature.com/articles/s41467-024-53211-7). More recently, I completed an **NSF REU at the University of California, Riverside** in Summer 2025, where I utilized machine learning models to investigate transcriptomics in Alzheimer's disease.
+
+In the realm of software engineering, I enjoy building tools that utilize modern AI. My recent projects include **QuizGPT**, a native Android application that integrates the Gemini AI model and Firebase to provide semantic grading and intelligent tutoring, as well as a custom Unix shell implementation in C.
