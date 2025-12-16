@@ -5,29 +5,26 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: # leave blank to include all the blog posts
+  enabled: true
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: # leave blank to include all the blog posts
 ---
 
-I am a senior at Commonwealth University - Bloomsburg in the Eileen G. Jones Honors College, pursuing a double major in Mathematics and Computer Science with a concentration in Data Science. I am currently applying to PhD programs for the Fall 2026 academic year.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-My academic focus lies at the intersection of pure mathematics and computational application. Currently, I am completing my honors thesis under the advisement of Dr. John Polhill, researching Partial Difference Sets (PDS) and their implications in combinatorial design theory.
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Beyond pure mathematics, I have extensive experience in applied research and software engineering. My background includes:
-* **NSF REU at UC Riverside (2025):** Investigating transcriptomics in Alzheimer's disease using machine learning models.
-* **Geisinger Health System:** Contributing to genomic research on sex chromosome aneuploidies, which resulted in a co-authored publication in *Nature Communications*.
-* **Systems & Application Development:** Building a custom shell in C and developing "QuizGPT," an Android application integrating the Gemini AI model and Firebase for semantic grading.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
