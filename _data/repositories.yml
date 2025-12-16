@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - johnseibert19
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - johnseibert19/QuizGPT
+  - johnseibert19/norseish
+  - johnseibert19/PSAC-Football-Analysis
+  - johnseibert19/Cost-Function
