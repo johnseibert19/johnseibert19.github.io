@@ -2,96 +2,107 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: John Seibert
+    - name: Contact
+      value: Bloomsburg, PA 17815
+    - name: Email
+      value: jms81185@commonwealthu.edu
+    - name: Website
+      value: <a href="https://johnseibert19.github.io">johnseibert19.github.io</a>
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. Mathematics, B.S. Computer Science
+      institution: Bloomsburg University of Pennsylvania
+      year: August 2020 - December 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis: Negative Latin Square Type Partial Difference Sets from Non-abelian Groups and their Product Constructions
+        - Advisor: John Polhill
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: NSF Fellow (REU)
+      institution: University of California, Riverside
+      year: June 2025 - August 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed and trained 3 machine learning models to predict biological age from high-dimensional bulk RNA-seq data.
+        - Engineered a data preprocessing pipeline to clean, log-transform, and z-score standardize gene expression data from GTEx v8 and GSE125583.
+        - Implemented feature selection using linear modeling and Benjamini-Hochberg correction to identify 400 significant age-responsive genes.
+        - Validated hypothesis that AD patients exhibit accelerated biological aging.
+
+    - title: Undergraduate Researcher (Grant Recipient)
+      institution: Commonwealth University - Bloomsburg
+      year: May 2023 - August 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Implemented a recursively-defined function (Mahler-Popken complexity) to define the cost of an integer using Python.
+        - Conjectured the function and 6 primitive recursive functions are computable.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Summer Undergraduate Research Program Intern
+      institution: Geisinger Health System
+      year: May 2022 - August 2022
       description:
+        - Analyzed genomic and phenotypic data from Geisinger MyCode and SPARK biobanks to investigate associations between sex chromosome aneuploidy (SCA) and autism.
+        - Identified proportions of 13 common symptoms of sex chromosome aneuploidies.
+        - Contributed to publication in Nature Communications (2024).
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Employment & Service
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Secretary (2024-25) / Senate Representative to Exec Board (2023-24)
+      institution: Community Government Association (CGA)
+      year: September 2020 - December 2025
+      description:
+        - Interim chair for Committee on Student Organizations.
+        - Approved $2 million budget for Community Activities Office, funding student clubs campus-wide.
+        - Co-drafted and revised Academic Distinction policies regarding Dean's List eligibility.
+
+    - title: Manufacturing Technology Intern
+      institution: Sekisui Kydex
+      year: May 2024 - August 2024
+      description:
+        - Consolidated 200 cloned FileMaker scripts to 7 streamlined prototype scripts.
+        - Hosted a FileMaker archive database for 4.5 million records.
+        - Authored documentation on best practices for FileMaker scripting.
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Nature Communications
+      year: 2024
+      description: "Berry, A. S. F., et al. (including <strong>Seibert, J. M.</strong>). A genome-first study of sex chromosome aneuploidies provides evidence of Y chromosome dosage effects on autism risk. <em>Nature Communications</em>, 15(1), 8897."
+
+    - title: In Preparation
+      year: 2025
+      description:
+        - "Seibert, J., Polhill, J. Constructing an Infinite Family of Negative Latin Square Partial Difference Sets in Nonabelian Groups."
+        - "Seibert, J., Nguyen, H., Li W.V., Ma W., Cui X. Transcriptomic Age Acceleration in Alzheimer's Disease: A Predictive Modeling Approach Using Age-Responsive Genes from GTEx."
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - NSF Fellow (Grant #2244480)
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Susquehanna Valley Undergraduate Research Symposium Best Poster Award
+        - Undergraduate Research, Scholarly, and Creative Activity Grant ($4,800)
+    - year: 2021
+      items:
+        - CGA Senator of the Semester (Fall)
+        - Board of Governor's Science and Technology Merit Scholarship
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, R, Java, C/C++, SQL, JavaScript, HTML/CSS, JSON, GAP, LaTeX
+    - title: Frameworks & Libraries
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - PyTorch, Apache Spark, pandas, NumPy, Matplotlib, scikit-learn, YOLOv8
+    - title: Developer Tools
+      items:
+        - Git, Google Cloud Platform, VSCode, IntelliJ, Jupyter
