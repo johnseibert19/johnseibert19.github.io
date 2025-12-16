@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2014-10-15 15:59:00-0400
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+My work I did in Summer 2022 has been accepted into Nature Communications! 
