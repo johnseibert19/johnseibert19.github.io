@@ -4,6 +4,7 @@ title: Age Acceleration Alzheimer's Disease
 description: another without an image
 img:
 importance: 3
+redirect: https://johnseibert19.github.io/assets/img/SoCal REU Symposium Poster.png
 category: poster
 ---
 
