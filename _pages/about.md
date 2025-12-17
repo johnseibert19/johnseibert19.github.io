@@ -15,12 +15,12 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
+  limit:
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: # leave blank to include all the blog posts
+  limit:
 ---
 
 I am a senior at **Commonwealth University - Bloomsburg** in the Eileen G. Jones Honors College, pursuing a double major in **Mathematics and Computer Science** with a concentration in Data Science. I am expected to graduate in **Fall 2025** and am currently applying to PhD programs for the 2026-2027 academic year.
