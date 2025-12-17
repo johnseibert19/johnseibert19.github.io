@@ -2,7 +2,8 @@
 layout: page
 title: EPaDel Fall 2023, Cost of an Integer
 description: with background image
-img: assets/img/4.jpg
+img: 
+redirect: https://johnseibert19.github.io/assets/img/MAA EPaDel Fall 2023 Presentation.pdf
 importance: 1
 category: oral
 related_publications: true
