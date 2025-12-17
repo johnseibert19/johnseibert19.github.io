@@ -432,7 +432,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-age-acceleration-alzheimer-39-s-disease",
           title: 'Age Acceleration Alzheimer&amp;#39;s Disease',
-          description: "another without an image",
+          description: "Poster presentation that shows machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-partial-difference-set-capstone",
