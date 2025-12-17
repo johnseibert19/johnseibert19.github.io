@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-",
-          title: "",
+        },{id: "nav-repositories",
+          title: "repositories",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -412,8 +412,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-work-i-did-in-summer-2022-has-been-accepted-into-nature-communications",
-          title: 'My work I did in Summer 2022 has been accepted into Nature Communications!...',
+            },},{id: "news-i-am-a-co-author-on-a-genome-first-study-of-sex-chromosome-aneuploidies-provides-evidence-of-y-chromosome-dosage-effects-on-autism-risk-which-has-been-accepted-into-nature-communications",
+          title: 'I am a co-author on “A genome-first study of sex chromosome aneuploidies provides...',
+          description: "",
+          section: "News",},{id: "news-i-have-completed-my-reu-experience-at-ucr-riverside-giving-my-final-presentation-on-transcriptomic-age-acceleration-in-alzheimer-s-disease-a-predictive-modeling-approach-using-age-responsive-genes-from-gtex",
+          title: 'I have completed my REU experience at UCR Riverside, giving my final presentation...',
+          description: "",
+          section: "News",},{id: "news-i-presented-my-honors-capstone-project-at-the-eileen-g-jones-honors-college-capstone-symposium-it-was-great-to-catch-up-with-many-students-there",
+          title: 'I presented my honors capstone project at the Eileen G. Jones Honors College...',
+          description: "",
+          section: "News",},{id: "news-i-graduated-from-commonwealth-university-bloomsburg-with-two-degrees-mathematics-and-computer-science-it-was-a-heck-of-a-career-onto-the-next-chapter",
+          title: 'I graduated from Commonwealth University-Bloomsburg with two degrees, mathematics and computer science. It...',
           description: "",
           section: "News",},{id: "projects-svurs-2022-geisinger",
           title: 'SVURS 2022 (Geisinger)',
