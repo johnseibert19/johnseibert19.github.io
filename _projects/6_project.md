@@ -3,6 +3,7 @@ layout: page
 title: MADS Seminar Series - Alzheimer's Aging
 description: a project with no image
 img:
+redirect: https://johnseibert19.github.io/assets/img/Seminar Series - Sep 23 Slides.pdf
 importance: 4
 category: oral
 ---
