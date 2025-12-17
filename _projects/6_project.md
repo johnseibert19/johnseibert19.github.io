@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MADS Seminar Series - Alzheimer's Aging
-description: a project with no image
+description: Oral presentation recapping my 2025 REU at UC Riverside, where our team used machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.
 img:
 redirect: https://johnseibert19.github.io/assets/img/Seminar Series - Sep 23 Slides.pdf
 importance: 4
