@@ -415,8 +415,8 @@ ninja.data = [{
             },},{id: "news-my-work-i-did-in-summer-2022-has-been-accepted-into-nature-communications",
           title: 'My work I did in Summer 2022 has been accepted into Nature Communications!...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-sca-npd-cohorts",
+          title: 'SCA NPD cohorts',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
