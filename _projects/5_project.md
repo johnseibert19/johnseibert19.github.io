@@ -3,7 +3,7 @@ layout: page
 title: Partial Difference Set Capstone
 description: a project with a background image
 img:
-redirect: https://johnseibert19.github.io/assets/img/HONR 410 - Capstone Poster Presentation
+redirect: https://johnseibert19.github.io/assets/img/HONR 410 - Capstone Poster Presentation.pdf
 importance: 3
 category: poster
 ---
