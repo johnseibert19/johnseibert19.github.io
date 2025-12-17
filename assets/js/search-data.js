@@ -447,7 +447,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-epadel-fall-2023-cost-of-an-integer",
           title: 'EPaDel Fall 2023, Cost of an Integer',
-          description: "with background image",
+          description: "This presentation defines a sequential function for integers using primitive recursive functions and utilizes Python to computationally demonstrate that the function&#39;s upper bound.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
