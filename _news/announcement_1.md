@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-My work I did in Summer 2022 has been accepted into Nature Communications! 
+I am a co-author on "A genome-first study of sex chromosome aneuploidies provides evidence of Y chromosome dosage effects on autism risk" which has been accepted into Nature Communications!
