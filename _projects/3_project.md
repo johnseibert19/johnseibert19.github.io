@@ -3,7 +3,7 @@ layout: page
 title: Dosage Effects on Autism Risk
 description: a project that redirects to another website
 img:
-redirect: https://unsplash.com
+redirect: https://johnseibert19.github.io/ASHG_2023_poster (1).pdf
 importance: 3
 category: poster
 ---
