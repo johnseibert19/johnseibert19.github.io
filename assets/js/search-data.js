@@ -445,8 +445,8 @@ ninja.data = [{
           description: "Oral presentation recapping my 2025 REU at UC Riverside, where our team used machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-epadel-fall-2023-cost-of-an-integer",
-          title: 'EPaDel Fall 2023, Cost of an Integer',
+            },},{id: "projects-epadel-fall-2023-cu-bloom",
+          title: 'EPaDel Fall 2023 (CU-Bloom)',
           description: "This presentation defines a sequential function for integers using primitive recursive functions and utilizes Python to computationally demonstrate that the function&#39;s upper bound.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
