@@ -420,13 +420,13 @@ ninja.data = [{
           description: "This project studies large population-based cohorts to investigate how sex chromosome aneuploidies—atypical numbers of X or Y chromosomes—significantly increase the risk of neuropsychiatric disorders like anxiety and depression.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-cost-of-an-integer",
-          title: 'Cost of an Integer',
+            },},{id: "projects-svurs-2023-cost-research-sp-2024-cu-bloom",
+          title: 'SVURS 2023, Cost Research Sp 2024 (CU-Bloom)',
           description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-dosage-effects-on-autism-risk",
-          title: 'Dosage Effects on Autism Risk',
+            },},{id: "projects-ashg-2023-geisinger",
+          title: 'ASHG 2023 (Geisinger)',
           description: "This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
