@@ -5,7 +5,7 @@ description: with background image
 img:
 importance: 1
 category: poster
-redirect: https://johnseibert19.github.io/assets/img/SCA&nbsp;poster.pdf
+redirect: https://johnseibert19.github.io/assets/img/SCA%20poster.pdf
 related_publications: true
 ---
 
