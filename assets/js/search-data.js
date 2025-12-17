@@ -425,8 +425,8 @@ ninja.data = [{
           description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-ashg-2023-geisinger",
-          title: 'ASHG 2023 (Geisinger)',
+            },},{id: "projects-dosage-effects-on-autism-risk",
+          title: 'Dosage Effects on Autism Risk',
           description: "This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
