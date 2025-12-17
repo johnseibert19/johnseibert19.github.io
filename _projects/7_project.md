@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: EPaDel Fall 2023, Cost of an Integer
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: oral
 related_publications: true
 ---
 
