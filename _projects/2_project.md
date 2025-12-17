@@ -3,7 +3,7 @@ layout: page
 title: Cost of an Integer
 description: a project with a background image and giscus comments
 img: 
-redirect: https://johnseibert19.github.io/assets/img/SCA poster.pdf
+redirect: https://johnseibert19.github.io/assets/img/SVURS 2023 Poster.pdf
 importance: 2
 category: poster
 giscus_comments: true
