@@ -422,7 +422,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cost-of-an-integer",
           title: 'Cost of an Integer',
-          description: "a project with a background image and giscus comments",
+          description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-dosage-effects-on-autism-risk",
