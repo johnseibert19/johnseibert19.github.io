@@ -417,7 +417,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-sca-npd-cohorts",
           title: 'SCA NPD cohorts',
-          description: "with background image",
+          description: "This project studies large population-based cohorts to investigate how sex chromosome aneuploidies—atypical numbers of X or Y chromosomes—significantly increase the risk of neuropsychiatric disorders like anxiety and depression.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cost-of-an-integer",
