@@ -427,7 +427,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-dosage-effects-on-autism-risk",
           title: 'Dosage Effects on Autism Risk',
-          description: "a project that redirects to another website",
+          description: "This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-age-acceleration-alzheimer-39-s-disease",
