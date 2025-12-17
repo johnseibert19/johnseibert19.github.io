@@ -2,9 +2,10 @@
 layout: page
 title: SCA NPD cohorts
 description: with background image
-img: assets/img/12.jpg
+img:
 importance: 1
 category: poster
+redirect: https://johnseibert19.github.io/assets/img/SCA poster.pdf
 related_publications: true
 ---
 
