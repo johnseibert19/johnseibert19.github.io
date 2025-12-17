@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dosage Effects on Autism Risk
-description: a project that redirects to another website
+description: This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.
 img:
 redirect: https://johnseibert19.github.io/assets/img/ASHG_2023_poster (1).pdf
 importance: 3
