@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Age Acceleration Alzheimer's Disease
+title: SoCal REU 2025 (UCR)
 description: Poster presentation that shows machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.
 img:
 importance: 3
