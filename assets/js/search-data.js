@@ -435,8 +435,8 @@ ninja.data = [{
           description: "Poster presentation that shows machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-partial-difference-set-capstone",
-          title: 'Partial Difference Set Capstone',
+            },},{id: "projects-cu-honors-capstone-symposium-cu-bloom",
+          title: 'CU Honors Capstone Symposium (CU-Bloom)',
           description: "Extends previous constructions of Negative Latin Square-type partial difference sets (PDS) by identifying specific non-abelian groups that admit the partitions necessary to generate infinite families of non-abelian PDSs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
