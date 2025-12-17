@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cost of an Integer
+title: SVURS 2023, Cost Research Sp 2024 (CU-Bloom)
 description: Develops a mathematical "cost function" implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.
 img: 
 redirect: https://johnseibert19.github.io/assets/img/SVURS 2023 Poster.pdf
