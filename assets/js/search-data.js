@@ -440,8 +440,8 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-mads-seminar-series-alzheimer-39-s-aging",
+          title: 'MADS Seminar Series - Alzheimer&amp;#39;s Aging',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
