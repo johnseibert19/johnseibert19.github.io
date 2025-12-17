@@ -425,13 +425,13 @@ ninja.data = [{
           description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-dosage-effects-on-autism-risk",
-          title: 'Dosage Effects on Autism Risk',
+            },},{id: "projects-ashg-2023-geisinger",
+          title: 'ASHG 2023 (Geisinger)',
           description: "This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-age-acceleration-alzheimer-39-s-disease",
-          title: 'Age Acceleration Alzheimer&amp;#39;s Disease',
+            },},{id: "projects-socal-reu-2025-ucr",
+          title: 'SoCal REU 2025 (UCR)',
           description: "Poster presentation that shows machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
