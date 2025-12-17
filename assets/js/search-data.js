@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-mads-seminar-series-alzheimer-39-s-aging",
           title: 'MADS Seminar Series - Alzheimer&amp;#39;s Aging',
-          description: "a project with no image",
+          description: "Oral presentation recapping my 2025 REU at UC Riverside, where our team used machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-epadel-fall-2023-cost-of-an-integer",
