@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Partial Difference Set Capstone
-description: a project with a background image
+description: Extends previous constructions of Negative Latin Square-type partial difference sets (PDS) by identifying specific non-abelian groups that admit the partitions necessary to generate infinite families of non-abelian PDSs.
 img:
 redirect: https://johnseibert19.github.io/assets/img/HONR 410 - Capstone Poster Presentation.pdf
 importance: 3
