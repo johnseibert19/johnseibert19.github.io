@@ -4,7 +4,7 @@ title: Age Acceleration Alzheimer's Disease
 description: another without an image
 img:
 importance: 3
-category: fun
+category: poster
 ---
 
 Every project has a beautiful feature showcase page.
