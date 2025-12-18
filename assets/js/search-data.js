@@ -135,6 +135,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/john-seibert", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/John-Seibert/", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
