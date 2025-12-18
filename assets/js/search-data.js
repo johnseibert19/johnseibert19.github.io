@@ -156,6 +156,13 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=3V3x0-0AAAAJ", "_blank");
         },
       },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@JohnSeibert19", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
