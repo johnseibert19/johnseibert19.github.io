@@ -69,41 +69,41 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-my-honors-capstone-project-at-the-eileen-g-jones-honors-college-capstone-symposium-it-was-great-to-catch-up-with-many-students-there",
           title: 'I presented my honors capstone project at the Eileen G. Jones Honors College...',
           description: "",
-          section: "News",},{id: "news-i-graduated-from-commonwealth-university-bloomsburg-with-two-degrees-mathematics-and-computer-science-it-was-a-heck-of-a-career-onto-the-next-chapter",
-          title: 'I graduated from Commonwealth University-Bloomsburg with two degrees, mathematics and computer science. It...',
+          section: "News",},{id: "news-i-graduated-from-commonwealth-university-bloomsburg-with-degrees-in-mathematics-and-computer-science-what-an-undergraduate-experience-this-was-and-i-would-like-to-thank-a-number-of-people-involved-that-are-impossible-to-all-name-onto-the-next-chapter-wherever-this-is",
+          title: 'I graduated from Commonwealth University-Bloomsburg with degrees in mathematics and computer science. What...',
           description: "",
-          section: "News",},{id: "projects-svurs-2022-geisinger",
-          title: 'SVURS 2022 (Geisinger)',
+          section: "News",},{id: "projects-sca-population-cohorts-svurs-2022",
+          title: 'SCA Population Cohorts (SVURS 2022)',
           description: "This project studies large population-based cohorts to investigate how sex chromosome aneuploidies—atypical numbers of X or Y chromosomes—significantly increase the risk of neuropsychiatric disorders like anxiety and depression.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-svurs-2023-cost-research-sp-2024-cu-bloom",
-          title: 'SVURS 2023, Cost Research Sp 2024 (CU-Bloom)',
-          description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.",
+            },},{id: "projects-mahler-popken-complexity-svurs-2023-cost-research-2024",
+          title: 'Mahler-Popken Complexity (SVURS 2023, COST Research 2024)',
+          description: "Develops a mathematical &quot;cost function&quot; implemented in Python to determine the smallest number of 1s it takes to evaluate a number, using a set of operations in a 4-function calculator.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-ashg-2023-geisinger",
-          title: 'ASHG 2023 (Geisinger)',
+            },},{id: "projects-sca-protective-effect-ashg-2023-non-presenting-author",
+          title: 'SCA Protective Effect (ASHG 2023, non-presenting author)',
           description: "This research evaluates how variations in sex chromosome dosage influence Autism Spectrum Disorder (ASD) risk, finding that the Y chromosome increases risk while the X chromosome does not show a dosage-sensitive protective effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-socal-reu-2025-ucr",
-          title: 'SoCal REU 2025 (UCR)',
+            },},{id: "projects-transcriptomics-alzheimer-39-s-socal-reu-2025",
+          title: 'Transcriptomics Alzheimer&amp;#39;s (SoCal REU 2025)',
           description: "Poster presentation that shows machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-cu-honors-capstone-symposium-cu-bloom",
-          title: 'CU Honors Capstone Symposium (CU-Bloom)',
+            },},{id: "projects-pds-infinite-families-cu-honors-capstone-symposium-f25",
+          title: 'PDS Infinite Families (CU Honors Capstone Symposium F25)',
           description: "Extends previous constructions of Negative Latin Square-type partial difference sets (PDS) by identifying specific non-abelian groups that admit the partitions necessary to generate infinite families of non-abelian PDSs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-mads-seminar-series-fall-2025-ucr",
-          title: 'MADS Seminar Series Fall 2025 (UCR)',
+            },},{id: "projects-mads-seminar-series-f25",
+          title: 'MADS Seminar Series F25',
           description: "Oral presentation recapping my 2025 REU at UC Riverside, where our team used machine learning models trained on transcriptomic data from healthy brain tissue to predict biological age and demonstrates that individuals with Alzheimer’s disease exhibit accelerated transcriptomic aging compared to healthy controls.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-epadel-fall-2023-cu-bloom",
-          title: 'EPaDel Fall 2023 (CU-Bloom)',
+            },},{id: "projects-maa-epadel-section-meeting-f23",
+          title: 'MAA EPaDel Section Meeting F23',
           description: "This presentation defines a sequential function for integers using primitive recursive functions and utilizes Python to computationally demonstrate that the function&#39;s upper bound.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
