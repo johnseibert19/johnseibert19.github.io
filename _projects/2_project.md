@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SVURS 2023, Cost Research Sp 2024 (CU-Bloom)
-description: Develops a mathematical "cost function" implemented in Python to determine the smallest algorithmic description of an integer by evaluating various subroutines.
+title: Mahler-Popken Complexity (SVURS 2023, COST Research 2024)
+description: Develops a mathematical "cost function" implemented in Python to determine the smallest number of 1s it takes to evaluate a number, using a set of operations in a 4-function calculator.
 img: 
 redirect: https://johnseibert19.github.io/assets/img/SVURS 2023 Poster.pdf
 importance: 2
