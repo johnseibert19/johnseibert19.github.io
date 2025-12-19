@@ -5,5 +5,5 @@ inline: true
 related_posts: true
 ---
 
-I have completed my REU experience at UCR Riverside, giving my final presentation on "Transcriptomic Age Acceleration in Alzheimer's Disease: A Predictive Modeling 
+I have completed my REU experience at UC Riverside, giving my final presentation on "Transcriptomic Age Acceleration in Alzheimer's Disease: A Predictive Modeling 
 Approach Using Age-Responsive Genes from GTEx"!
