@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SVURS 2022 (Geisinger)
+title: SCA Population Cohorts (SVURS 2022)
 description: This project studies large population-based cohorts to investigate how sex chromosome aneuploidies—atypical numbers of X or Y chromosomes—significantly increase the risk of neuropsychiatric disorders like anxiety and depression.
 img:
 importance: 1
