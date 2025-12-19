@@ -23,10 +23,14 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-I am a senior at **Commonwealth University - Bloomsburg** in the Eileen G. Jones Honors College, pursuing a double major in **Mathematics and Computer Science** with a concentration in Data Science. I am expected to graduate in **Fall 2025** and am currently applying to PhD programs for the 2026-2027 academic year.
+# About Me
 
-My academic interests lie at the intersection of abstract theory and computational application. I am currently working on my honors thesis under the advisement of **Dr. John Polhill**, researching **partial difference sets (PDS)** and their implications in combinatorial design theory.
+I am a recent alumnus of [**Commonwealth University - Bloomsburg**](https://www.commonwealthu.edu/) in the Eileen G. Jones Honors College, with degrees in [**Mathematics and Computer Science**](https://www.commonwealthu.edu/offices-directory/mathematics-computer-science-and-digital-forensics). I am currently applying to PhD programs for the 2026-2027 academic year.
 
-Beyond pure mathematics, I have extensive experience in applied research and systems engineering. My research journey began at **Geisinger Health System**, where I analyzed genomic data related to sex chromosome aneuploidies, contributing to a co-authored publication in [_Nature Communications_](https://www.nature.com/articles/s41467-024-53211-7). More recently, I completed an **NSF REU at the University of California, Riverside** in Summer 2025, where I utilized machine learning models to investigate transcriptomics in Alzheimer's disease.
+My academic interests lie at the intersection of abstract theory and computational application. I am currently working on my honors thesis under the advisement of [**Dr. John Polhill**](https://www.researchgate.net/profile/John-Polhill), researching **partial difference sets (PDS)** and their implications in combinatorial design theory.
+
+Beyond pure mathematics, I have extensive experience in applied research and systems engineering. My research journey began at [**Geisinger Health System**](https://www.geisinger.org/patient-care/find-a-location/autism-development-medicinex), where I analyzed genomic data related to sex chromosome aneuploidies, contributing to a co-authored publication in [_Nature Communications_](https://www.nature.com/articles/s41467-024-53211-7). More recently, I completed an [**NSF REU at the University of California, Riverside**](https://sites.google.com/ucr.edu/ucr-ds-reu) in Summer 2025, where I utilized machine learning models to investigate transcriptomics in Alzheimer's disease.
 
 In the realm of software engineering, I enjoy building tools that utilize modern AI. My recent projects include **QuizGPT**, a native Android application that integrates the Gemini AI model and Firebase to provide semantic grading and intelligent tutoring, as well as a custom Unix shell implementation in C.
+
+---
