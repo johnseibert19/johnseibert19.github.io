@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EPaDel Fall 2023 (CU-Bloom)
+title: MAA EPaDel Section Meeting F23
 description: This presentation defines a sequential function for integers using primitive recursive functions and utilizes Python to computationally demonstrate that the function's upper bound.
 img: 
 redirect: https://johnseibert19.github.io/assets/img/MAA EPaDel Fall 2023 Presentation.pdf
