@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PDS Honors Capstone Project F25
+title: PDS Infinite Families (CU Honors Capstone Symposium F25)
 description: Extends previous constructions of Negative Latin Square-type partial difference sets (PDS) by identifying specific non-abelian groups that admit the partitions necessary to generate infinite families of non-abelian PDSs.
 img:
 redirect: https://johnseibert19.github.io/assets/img/HONR 410 - Capstone Poster Presentation.pdf
